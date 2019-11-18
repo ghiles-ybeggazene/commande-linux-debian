@@ -1,1 +1,12 @@
 
+$ sudo apt-get install apache2      installer apache 
+ 
+$  /usr/sbin/apache2 -v      version apache
+
+$   sudo system ctl status apache2     verification du serveur apache
+
+$   nano /etc/apache2/site-enabled/000-default.conf       configuaration du serveur apache 
+
+$  df -h   voir l espace du disque 
+
+$ ls -la     affichage en detail 
