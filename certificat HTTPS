@@ -1,1 +1,6 @@
 
+$ sudo apt-get install certbot
+
+$ sudo apt-get install python-certbot-apache2
+
+$ /etc/cron.d  certbot --register-unsafely-without-email 
