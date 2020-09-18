@@ -1,0 +1,17 @@
+
+List packages by installation date
+
+# tail -f /var/log/dpkg.log
+$ sudo tail -f /var/log/dpkg.log
+
+# less /var/log/dpkg.log
+# more /var/log/dpkg.log
+
+
+
+See package installation date and time
+
+# grep installed /var/log/dpkg.log
+
+
+https://www.cyberciti.biz/faq/debian-ubuntu-linux-find-package-installed-updated-date/
