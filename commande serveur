@@ -7,3 +7,17 @@ $ cp -a /chemin1/*   /chemin2/dossier    copier le contenu d'un dossier
 
 $ nano  editeur de texte 
 
+
+copier 
+
+il faut se localiser dans le dossier 
+
+sudo cp -Rf /home/ghiles/new-folder/* .
+
+
+
+renommer 
+
+
+sudo mv nomfichier nouveaunomfichier
+
